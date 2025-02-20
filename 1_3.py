@@ -3,4 +3,4 @@ secondlist = []
 for item in list:
     if item not in secondlist:
         secondlist.append(item)
-print(secondlist)  
+print(secondlist) 
